@@ -1,4 +1,4 @@
-#Installation process with `yarn`
+# Installation process with `yarn`
 
 1. First step - install ESLint:
 ```
@@ -22,8 +22,7 @@ Answers about our project:
 ```
 yarn add -D eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint-plugin-import @typescript-eslint/parser eslint-import-resolver-typescript prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-react-hooks
 ```
-4. Create file `.prettierrc`
-My basic configuration for prettierrc file is:
+4. Create file `.prettierrc`. My basic configuration for prettierrc file is:
 ```
 {
 "semi": false,
@@ -62,4 +61,4 @@ and add plugin update:
 ...
 }
 ```
-##END.
+## END.
